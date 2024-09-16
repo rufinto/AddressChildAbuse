@@ -10,8 +10,11 @@ To run the project, just open it with xcode or playground and App -> MyApp.swift
 # APP ICON
   
 I draw an icon on my ipad with goodnotes 6 and Apple Pencil. I inspire myself from an image of African continent, then I used red color (to express blood, disease...) and black color (to express pain...), then, and I add some expressios or slogans on the image, and the result is inside the assets of the project. 
+![Simulator Screenshot - iPhone 15 - 2024-09-16 at 06 01 29](https://github.com/user-attachments/assets/5c84246f-bc02-4023-a7fc-057f7a38ac1a)
 
-#This game has 2 view:
+
+# This game has 2 view:
+
 The first is a play view where we can dive into different level and earn points. Each level is about one childabuse, and when you reached that level
 a special card is unlocked for further information about abuse, and appears in the second view.
 
