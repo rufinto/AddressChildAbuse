@@ -11,13 +11,20 @@ To run the project, just open it with xcode or playground and App -> MyApp.swift
   
 I draw an icon on my ipad with goodnotes 6 and Apple Pencil. I inspire myself from an image of African continent, then I used red color (to express blood, disease...) and black color (to express pain...), then, and I add some expressios or slogans on the image, and the result is inside the assets of the project. 
 
-![Simulator Screenshot - iPhone 15 - 2024-09-16 at 06 01 29](https://github.com/user-attachments/assets/5c84246f-bc02-4023-a7fc-057f7a38ac1a)
+
+<img width="310" alt="Capture d’écran 2024-09-16 à 06 17 20" src="https://github.com/user-attachments/assets/8ad0814a-6190-41f5-b40a-ff05437ed73c">
 
 
 # This game has 2 view:
 
 The first is a play view where we can dive into different level and earn points. Each level is about one childabuse, and when you reached that level
 a special card is unlocked for further information about abuse, and appears in the second view.
+
+
+<img width="314" alt="Capture d’écran 2024-02-23 à 23 33 20" src="https://github.com/user-attachments/assets/2a833c61-c787-4f10-87af-531ce195a6ff">
+<img width="311" alt="Capture d’écran 2024-02-23 à 23 09 45" src="https://github.com/user-attachments/assets/2aa048a0-4ea8-40c5-908c-4a135a9a36e3">
+<img width="308" alt="Capture d’écran 2024-02-23 à 23 34 25" src="https://github.com/user-attachments/assets/1841441a-0db9-4700-ae0f-37233dbc4e8a">
+
 
 # Score
 Each question we answer gives or removes points as
