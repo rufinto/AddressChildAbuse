@@ -1,11 +1,13 @@
-REQUIREMENTS: Xcode 15 or playground 4 both Swift 5.9 or later.
+# REQUIREMENTS
+
+Need Xcode 15 or playground 4 both Swift 5.9 or later.
 
 
-#How To Run The App
+# How To Run The App
 
 To run the project, just open it with xcode or playground and App -> MyApp.swift. A preview of the app will appear, then you can build and run the app on the simulation.
 
-#APP ICON
+# APP ICON
   
 I draw an icon on my ipad with goodnotes 6 and Apple Pencil. I inspire myself from an image of African continent, then I used red color (to express blood, disease...) and black color (to express pain...), then, and I add some expressios or slogans on the image, and the result is inside the assets of the project. 
 
@@ -13,7 +15,7 @@ I draw an icon on my ipad with goodnotes 6 and Apple Pencil. I inspire myself fr
 The first is a play view where we can dive into different level and earn points. Each level is about one childabuse, and when you reached that level
 a special card is unlocked for further information about abuse, and appears in the second view.
 
-#Score
+# Score
 Each question we answer gives or removes points as
     - Each question correctly answered gives 10 points.
     - If we fail a question of one unique choice, we loose 5 points.
@@ -23,7 +25,7 @@ Each question we answer gives or removes points as
 The second view in a collection view where it's displaying all the locked and unlocked card for all levels.
 Each card displays some relevant informations: the name of the abuse, his colorImpact, his gravity rank, and the rate presence or scope.
 
-#Abuse
+# Abuse
 The game recensed 12 major child abuse present in Africa among:
 
 1)  Unsheltered Children
@@ -55,15 +57,15 @@ The game recensed 12 major child abuse present in Africa among:
     When a card has many color we find the mix of these colors: example blue + red =  purple.
 
 
-#Infos
+# Infos
 Each card contains some further infos about abuse and links to websites used to fetch infos to build questions.
 
-#Scope
+# Scope
 
 It's simply the percentage of cildren victim of the abuse among the overall African children. It's an approximetion. Africa has around 400-500 Million children
 
 
-#Music
+# Music
 
 The project includes some sound effects. These sounds are free licence sounds donwload on https://www.freesoundslibrary.com
 
@@ -79,7 +81,7 @@ Licence: License: Attribution 4.0 International (CC BY 4.0). You are allowed to 
 http://www.freesoundslibrary.com
 
 
-#Code and SwiftView/file
+# Code and SwiftView/file
 
 CardCollectionView: conatains all structs for flipped and unflipped cards
 
