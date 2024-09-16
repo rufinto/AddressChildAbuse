@@ -1,4 +1,6 @@
-# REQUIREMENTS
+# MY SWIFT STUDENT CHALLENGE PROJECT
+
+# Requirements !!
 
 Need Xcode 15 or playground 4 both Swift 5.9 or later.
 
